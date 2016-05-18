@@ -33,3 +33,5 @@
 ###Chrome
 * Option + Command + I: Dev Tools
 * Option + Command + J: Console
+
+aproved by Chris Hill
