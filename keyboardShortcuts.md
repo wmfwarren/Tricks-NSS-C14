@@ -38,3 +38,13 @@
 * gco = git checkout
 * gst = git status
 * gcam = git commit -a -m (git commit amended files with message)
+* st (file name) = open up the file name with SublimeText
+* stt = open up the current directory in SublimeText 
+* - = 'CD -' which is go your last directory you were in
+* ...=../.. move up two directories
+* ....=../../.. move up three directories
+* .....=../../../.. move up four directories
+* ......=../../../../.. ove up five directories
+
+
+
