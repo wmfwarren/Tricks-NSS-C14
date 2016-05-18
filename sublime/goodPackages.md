@@ -8,3 +8,6 @@
 * HTML5: Improved HTML5 stuff
 * SideBarEnhancements: Does what it says. Makes projects easier to manage while in Sublime
 * Emmet: Lets you build *snippets*
+
+###THEMES
+* Hammer: is a nice color scheme
