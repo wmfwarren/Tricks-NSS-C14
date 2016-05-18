@@ -34,4 +34,7 @@
 * Option + Command + I: Dev Tools
 * Option + Command + J: Console
 
-aproved by Chris Hill
+###Aliases
+* gco = git checkout
+* gst = git status
+* gcam = git commit -a -m (git commit amended files with message)
