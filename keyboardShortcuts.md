@@ -7,6 +7,7 @@
 * Control + Command + K: Delete a whole line (w/o copying it)
 * Shift + Command + (Left/Right arrow): Highlight the rest of a line to the right or left. 
 * Shift + Command + D: Duplicate a line
+
 ####Multi-Edit
 * Command + D: Select next instance of currently highlighted text
 * Control + Command + G: Select ALL instances of currently highlighted text. 
@@ -15,12 +16,13 @@
 * Control + ~: Sublime Console
 * Command + P: Search all files in a project
 * Shift + Command + P: Package Control
+* Option + Command + S: Save all open files
+* Option + Command + 2/3/4: Open a second/third/fourth vertical pane in sublime
 
 ###General
 * Command + (Right arrow): End of line
 * Command + (Left arrow): Beginning of line
 * Command + (Space): search and open an app
-* Option + Command + S: Save all open files
 
 ###Terminal
 * Option + Command + (Left/Right arrow): Switch window in current tab
